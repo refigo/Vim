@@ -3,6 +3,8 @@
 link: https://www.inflearn.com/course/%EC%99%BC%EC%86%90%EC%BD%94%EB%94%A9-vim-%EC%97%90%EB%94%94%ED%84%B0/dashboard
 
 ## 01 Vim 설치
+vim online에서 download(windows)
+Linux나 macOS에는 기본적으로 설치됨
 
 ---
 
